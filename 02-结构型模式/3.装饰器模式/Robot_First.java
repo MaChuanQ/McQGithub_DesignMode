@@ -2,7 +2,7 @@
 public class Robot_First implements Robot{
     @Override
     public void doSomeThing() {
-        System.out.println("唱歌 ");
+        System.out.println("唱歌");
         System.out.println("对话");
     }
 }
